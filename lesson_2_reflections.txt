@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do
+  it?
+
+  - It puts all files in the folder into a repository, starts a master
+    branch, and build the .git folder
