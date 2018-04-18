@@ -3,3 +3,16 @@ What happens when you initialize a repository? Why do you need to do
 
   - It puts all files in the folder into a repository, starts a master
     branch, and build the .git folder
+
+How is the staging area different from the working directory and the
+  repository? What value do you think it offers?
+
+  - The staging area includes only the files you choose. The value it
+    offers is being able to choose to push only the files you want to.
+
+What are some situations when branches would be helpful in keeping your
+  history organized? How would branches help?
+
+  -Branches would be helpful when you are working on new features or
+    changes that may affect the repository. This will keep all
+    of this organization to have different choices.
