@@ -1,1 +1,4 @@
-First reflection
+Why would you want to use a remote repository rather than keeping
+  all your work local?
+
+  - Allow collaboration and use of other computer to work across.
