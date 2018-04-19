@@ -16,3 +16,8 @@ What are some situations when branches would be helpful in keeping your
   -Branches would be helpful when you are working on new features or
     changes that may affect the repository. This will keep all
     of this organization to have different choices.
+
+How do the diagrams help you visualize the branch structure?
+
+  - They allow you to see the history of the file. Visual representation
+    of git log
