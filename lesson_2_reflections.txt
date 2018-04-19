@@ -21,3 +21,8 @@ How do the diagrams help you visualize the branch structure?
 
   - They allow you to see the history of the file. Visual representation
     of git log
+
+What are the pros and cons of Git's automatic merging vs always
+  doing merges manually?
+
+  it allows less work on our part to do it automatic.
